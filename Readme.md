@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * **[Default.aspx](./CS/E4936/Default.aspx) (VB: [Default.aspx](./VB/E4936/Default.aspx))**
-* [Default.aspx.cs](./CS/E4936/Default.aspx.cs) (VB: [Default.aspx](./VB/E4936/Default.aspx))
+* [Default.aspx.cs](./CS/E4936/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E4936/Default.aspx.vb))
 <!-- default file list end -->
 # How to show ASPxLoadingPanel during exporting XtraReport
 
