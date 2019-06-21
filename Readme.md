@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/E4936/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E4936/Default.aspx.vb))
 <!-- default file list end -->
 # How to show ASPxLoadingPanel during exporting XtraReport
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e4936/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to show a loading panel while a document of an exported report is being created on the server side.</p><p>When an exported document is large, it takes several seconds to export it, and you might want to show ASPxLoadingPanel during exporting. The main issue is that a document should be exported on a full page postback and written to the server response, and it is impossible to show APSxLoadingPanel during a full page postback. </p><br />
