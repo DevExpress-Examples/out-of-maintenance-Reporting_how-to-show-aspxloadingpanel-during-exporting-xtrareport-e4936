@@ -40,7 +40,7 @@ Namespace E4936
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btSave As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btSave As Global.DevExpress.Web.ASPxButton
 
 		''' <summary>
 		''' cbExportFormat control.
@@ -49,7 +49,7 @@ Namespace E4936
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected cbExportFormat As Global.DevExpress.Web.ASPxEditors.ASPxComboBox
+		Protected cbExportFormat As Global.DevExpress.Web.ASPxComboBox
 
 		''' <summary>
 		''' ReportViewerOrders control.
@@ -67,7 +67,7 @@ Namespace E4936
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected lpExporting As Global.DevExpress.Web.ASPxLoadingPanel.ASPxLoadingPanel
+		Protected lpExporting As Global.DevExpress.Web.ASPxLoadingPanel
 
 		''' <summary>
 		''' cbExport control.
@@ -76,7 +76,7 @@ Namespace E4936
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected cbExport As Global.DevExpress.Web.ASPxCallback.ASPxCallback
+		Protected cbExport As Global.DevExpress.Web.ASPxCallback
 
 		''' <summary>
 		''' btSaveToResponse control.
@@ -85,6 +85,6 @@ Namespace E4936
 		''' Auto-generated field.
 		''' To modify move field declaration from designer file to code-behind file.
 		''' </remarks>
-		Protected btSaveToResponse As Global.DevExpress.Web.ASPxEditors.ASPxButton
+		Protected btSaveToResponse As Global.DevExpress.Web.ASPxButton
 	End Class
 End Namespace

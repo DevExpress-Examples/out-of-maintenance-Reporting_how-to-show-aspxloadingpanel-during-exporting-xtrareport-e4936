@@ -6,7 +6,7 @@ Imports System.Web
 Imports System.Web.UI
 Imports System.Web.UI.WebControls
 Imports DevExpress.XtraReports.UI
-Imports DevExpress.Web.ASPxCallback
+Imports DevExpress.Web
 Imports System.Threading
 Imports System.IO
 Imports E4936.Reports

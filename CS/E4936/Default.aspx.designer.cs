@@ -37,7 +37,7 @@ namespace E4936 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btSave;
+        protected global::DevExpress.Web.ASPxButton btSave;
         
         /// <summary>
         /// cbExportFormat control.
@@ -46,7 +46,7 @@ namespace E4936 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxComboBox cbExportFormat;
+        protected global::DevExpress.Web.ASPxComboBox cbExportFormat;
         
         /// <summary>
         /// ReportViewerOrders control.
@@ -64,7 +64,7 @@ namespace E4936 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxLoadingPanel.ASPxLoadingPanel lpExporting;
+        protected global::DevExpress.Web.ASPxLoadingPanel lpExporting;
         
         /// <summary>
         /// cbExport control.
@@ -73,7 +73,7 @@ namespace E4936 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxCallback.ASPxCallback cbExport;
+        protected global::DevExpress.Web.ASPxCallback cbExport;
         
         /// <summary>
         /// btSaveToResponse control.
@@ -82,6 +82,6 @@ namespace E4936 {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton btSaveToResponse;
+        protected global::DevExpress.Web.ASPxButton btSaveToResponse;
     }
 }
