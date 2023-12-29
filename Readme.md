@@ -1,8 +1,3 @@
-<!-- default badges list -->
-![](https://img.shields.io/endpoint?url=https://codecentral.devexpress.com/api/v1/VersionRange/128603360/13.1.8%2B)
-[![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E4936)
-[![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
-<!-- default badges end -->
 <!-- default file list -->
 *Files to look at*:
 
@@ -10,9 +5,6 @@
 * [Default.aspx.cs](./CS/E4936/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/E4936/Default.aspx.vb))
 <!-- default file list end -->
 # How to show ASPxLoadingPanel during exporting XtraReport
-<!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/e4936/)**
-<!-- run online end -->
 
 
 <p>This example demonstrates how to show a loading panel while a document of an exported report is being created on the server side.</p><p>When an exported document is large, it takes several seconds to export it, and you might want to show ASPxLoadingPanel during exporting. The main issue is that a document should be exported on a full page postback and written to the server response, and it is impossible to show APSxLoadingPanel during a full page postback. </p><br />
